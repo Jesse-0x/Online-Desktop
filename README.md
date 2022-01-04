@@ -6,7 +6,7 @@ A online KDE Desktop website can use for work
 
 
 
-This is a Desktop use docker, KDE neon offical docker image and GUI memu.
+This is a Desktop use docker, KDE neon offical docker image and GUI memu, also x11vnc, and [noVNC](https://github.com/novnc/noVNC)
 
 ### Quick start
 
